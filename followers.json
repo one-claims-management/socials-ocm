@@ -1,0 +1,33 @@
+{
+  "brand": "ocm",
+  "total": 4,
+  "formatted": "4",
+  "updatedAt": "2026-10-12T12:29:03.665Z",
+  "live": true,
+  "platforms": {
+    "instagram": {
+      "count": 4,
+      "formatted": "4",
+      "live": true,
+      "url": "https://www.instagram.com/oneclaimsmanagement/",
+      "handle": "oneclaimsmanagement",
+      "unit": "followers"
+    },
+    "linkedin": {
+      "count": 0,
+      "formatted": "0",
+      "live": false,
+      "url": "https://www.linkedin.com/company/one-claims-management/",
+      "handle": "One Claims Management",
+      "unit": "followers"
+    },
+    "facebook": {
+      "count": 0,
+      "formatted": "0",
+      "live": false,
+      "url": "https://www.facebook.com/oneclaimsmanagement/",
+      "handle": "oneclaimsmanagement",
+      "unit": "followers"
+    }
+  }
+}
